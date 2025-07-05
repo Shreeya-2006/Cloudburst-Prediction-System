@@ -26,7 +26,7 @@ You can install them using the following command:
 
 ```bash
 pip install streamlit pandas matplotlib scikit-learn requests
-git clone <https://github.com/devanshsharma-og/Cloudburst-Prediction-System>
+git clone <https://github.com/Shreeya-2006/Cloudburst-Prediction-System.git>
 cd cloudburst_pred_sys
 pip install -r requirements.txt
 streamlit run app.py
